@@ -14,3 +14,7 @@ How to _emphasize_
 o test1
 o test2
 o test3
+
+1. test1
+2. test2
+3. test3
